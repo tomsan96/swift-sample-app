@@ -1,0 +1,6 @@
+framework module Pods_favoriteButtonApp_favoriteButtonAppUITests {
+  umbrella header "Pods-favoriteButtonApp-favoriteButtonAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
